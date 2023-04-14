@@ -1,2 +1,2 @@
 # xenonville
-![](https://raw.githubusercontent.com/xenonville/.github/main/profile/logo.png)
+![](https://raw.githubusercontent.com/xenonville/.github/main/profile/banner.png)
